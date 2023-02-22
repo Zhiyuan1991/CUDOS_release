@@ -7,7 +7,7 @@ This repository provides the implementation for the paper:
 Published on ICLR 2023.
 
 
-## Envrioment
+## Environment
 
 * Python >= 3.8
 * PyTorch >= 1.7
