@@ -30,6 +30,6 @@ python main_som.py -mode=1 -checkpoint_dir=checkpoints/3dshapes_cudos_r1 -gpu_us
 ```
 Run metrics on continual 3DShape dataset:
 ```
-python main_som.py -mode=3 -checkpoint_dir=checkpoints/3dshapes_cudos_r20 -gpu_usage=.5 \
+python main_som.py -mode=3 -checkpoint_dir=checkpoints/3dshapes_cudos_r1 -gpu_usage=.5 \
 -z_dim=15 -task=2 -sparse_coding_MIG="True" -sparse_coding="True" -Bayesian_SOM="True"
 ```
