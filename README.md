@@ -10,12 +10,9 @@ Published on ICLR 2023.
 ## Environment
 
 * Python >= 3.8
+* tensorflow>=2.5
 * PyTorch >= 1.7
-* ipdb
 * matplotlib
 * numpy
 * scipy
-* Pillow
-* pymunk
-* pygame
-* torchdiffeq
+* PIL
