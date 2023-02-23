@@ -16,3 +16,5 @@ Published on ICLR 2023.
 * numpy
 * scipy
 * PIL
+
+Or import from Conda environment "py38.yml".
