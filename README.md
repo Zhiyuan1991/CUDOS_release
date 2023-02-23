@@ -20,7 +20,7 @@ Published on ICLR 2023.
 Or import from Conda environment "py38.yml".
 
 ## Examples
-Data are supposed be in "../../Data". Or, data_manager.py
+Data are supposed be in "../../Data". Or be defined in "data_manager.py".
 
 Run training on continual 3DShape dataset:
 ```
